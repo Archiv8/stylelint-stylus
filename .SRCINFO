@@ -1,0 +1,44 @@
+pkgbase = stlint
+	pkgdesc = A supervised-learning system for recognizing parts of web pages—pop-ups, address forms, slideshows—or for classifying a page as a whole.
+	pkgver = 1.0.65
+	pkgrel = 1
+	url = https://github.com/mozilla/fathom
+	arch = any
+	license = MIT
+	makedepends = jq
+	makedepends = npm
+	depends = nodejs
+	source = https://registry.npmjs.org/stlint/-/stlint-1.0.65.tgz
+	sha512sums = 004c592ae46189ba32ca14354b0f5bafe0d90d7c54e1e221735b0768c5370aec0504850ca4f7e2c5591547f2abcbec037cd96d8b836c79ac562e56e8ffa1de7f
+
+pkgname = stlint
+pkgbase = stylelint-stylus
+	pkgdesc = A plugin that allows Stylelint to check Stylus style sheets
+	pkgver = 0.16.1
+	pkgrel = 1
+	url = https://stylelint.io/
+	arch = any
+	license = MIT
+	makedepends = jq
+	makedepends = npm
+	depends = nodejs
+	depends = stylelint
+	source = https://registry.npmjs.org/stylelint-stylus/-/stylelint-stylus-0.16.1.tgz
+	sha512sums = d5266804de97cc387d7eb93aa5d5595914d32496644bbccb9e77255f9d7f8d2cf9fa85b45c429bafab49ca2ed02f94c1a7775d9b0e58cd72bed9da668dfeedce
+
+pkgname = stylelint-stylus
+pkgbase = stylelint-stylus
+	pkgdesc = A plugin that allows Stylelint to check Stylus style sheets
+	pkgver = 0.16.1
+	pkgrel = 1
+	url = https://stylelint.io/
+	arch = any
+	license = MIT
+	makedepends = jq
+	makedepends = npm
+	depends = nodejs
+	depends = stylelint
+	source = https://registry.npmjs.org/stylelint-stylus/-/stylelint-stylus-0.16.1.tgz
+	sha512sums = d5266804de97cc387d7eb93aa5d5595914d32496644bbccb9e77255f9d7f8d2cf9fa85b45c429bafab49ca2ed02f94c1a7775d9b0e58cd72bed9da668dfeedce
+
+pkgname = stylelint-stylus
